@@ -1,0 +1,2 @@
+# ball-project
+Add.gitignore
